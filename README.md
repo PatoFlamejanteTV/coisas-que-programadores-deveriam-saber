@@ -6,7 +6,7 @@ Uma coleção de coisas (principalmente) técnicas que todo desenvolvedor de sof
 Altamente opinativo :bomb:. Não apoiado pela ciência.
 Vem sem nenhuma ordem específica :recycle:
 
-Gostou? :star: favorite e [compartilhe](https://twitter.com/mr_mig_by/status/900735231552098306) com um desenvolvedor amigo!
+Gostou? :star: favorite e compartilhe com um desenvolvedor amigo!
 Não gostou? [Assista ao doggo](https://twitter.com/RespectfulMemes/status/900147758845308930) :dog:
 
 *P.S. Você [não precisa saber](https://xkcd.com/1050/) tudo isso de cor para ser um programador.
