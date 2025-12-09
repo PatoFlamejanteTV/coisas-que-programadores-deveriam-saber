@@ -1,26 +1,3 @@
-<div align="center" markdown="1">
-   <sup>Special thanks to:</sup>
-   <br>
-   <br>
-   <a href="https://tuple.app/every-programmer-should-know">
-    <img width="400" alt="Tuple's sponsorship image" src="https://github.com/user-attachments/assets/dc223735-2060-476e-9f76-0b225e03ce1f" />
-   </a>
-
-### [Tuple, the premier screen sharing app for developers](https://tuple.app/every-programmer-should-know)
-
-[Available for MacOS & Windows](https://tuple.app/every-programmer-should-know)<br>
-
-</div>
-
-----
-<div align="center" markdown="1">
-  Want to become a Senior Engineer sooner?  
-
-  [Join a waitlist for repo author's course](https://maven.com/top-engineer/fast-track-to-senior?utm_source=github&utm_campaign=autumn_repo_bump)
-</div>
-
-----
-
 # Every Programmer Should Know :thinking:
 A collection of (mostly) technical things every software developer should know.
 
